@@ -1,8 +1,8 @@
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+### Hi there 👋, my name is Jools
+#### Design and Development
+![Design and Development](https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I'm currently living and studying in The Netherlands. I love to bring ideas to life using different languages and frameworks!
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
