@@ -9,7 +9,7 @@ I'm currently living and studying in The Netherlands. I love to bring ideas to l
 ⚛️ REACT
 🧑‍💻 HTML / JS / CSS
 
-- 🔭 I’m currently working on my Bible App
+- 🔭 I’m currently working on my Bible App ✝️
 - 🌴 My TravelStory app is not finished yet, feel free to commit.
 - ✅ I've just finished my minimalistic Toodo App
 
